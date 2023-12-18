@@ -21,7 +21,7 @@ def GetLLMResponse(selected_topic_level,
     #                     config = config)
     
     ## Create LLM Chaining
-    questions_template = "Generate a {selected_topic_level} math quiz on the topic of {selected_topic}. Include {num_quizzes} questions"
+    questions_template = "Generate a {selected_topic_level} math quiz on the topic of {selected_topic}. Include {num_quizzes} questions without providing answers."
     questions_prompt = PromptTemplate(input_variables=["selected_topic_level", "selected_topic", "num_quizzes"],
                                       template=questions_template)
     questions_chain = LLMChain(llm= llm,

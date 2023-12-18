@@ -1,6 +1,5 @@
 import streamlit as st
 from function import GetLLMResponse
-import pandas as pd
 
 # List of math topics and difficulty levels
 math_topics = {
@@ -45,8 +44,17 @@ if submit:
         if response:
             st.subheader("Quiz Questions and Answers:")
             # Prepare data for the table
-            result_df = pd.DataFrame(response)
-            st.table(result_df)
+            col1, col2 = st.columns(2)
+            with col1:
+                st.subheader("Questions")
+                questions = response.get('questions')
+                st.write(questions)
+            
+            with col2:
+                st.subheader("Answers")
+                answers = response.get('answer')
+                st.write(answers)
+
         else:
             st.warning("No Quiz Questions and Answers")
             
