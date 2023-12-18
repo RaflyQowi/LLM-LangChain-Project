@@ -28,5 +28,5 @@ Ideal for practicing and enhancing mathematical skills.
 
 ### Deployment Example
 
-[Deployed Math Quiz App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/llama-llm)
+[Deployed Math Quiz App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/LLM-Generate-Math_Quiz)
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Generate%20Math%20Quiz/image/generate%20math%20question%202.png)
