@@ -6,7 +6,7 @@ This repository contains a collection of projects utilizing the LangChain librar
 
 ### Description
 
-- Utilizes the llama2 models
+- Harnesses the power of Mixtral-8x7B models
 - Implements functionality using the LangChain library
 - Developed as a Streamlit app with deployment on the Hugging Face space
 
@@ -20,7 +20,7 @@ Users can specify the following parameters:
 
 ### Output
 
-Generates a quiz along with answer explanations using llama2 models.
+Generates a quiz along with answer explanations using Mixtral-8x7B models.
 
 ### Usage
 
