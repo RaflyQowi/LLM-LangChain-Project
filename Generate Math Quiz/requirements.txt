@@ -4,4 +4,5 @@ ctransformers
 langchain
 python-box
 streamlit
-pandas
+python-dotenv
+huggingface_hub
