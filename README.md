@@ -61,3 +61,34 @@ Explore the ChatBot with PDF app on the Hugging Face Space:
 [ChatBot with PDF App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/ChatBot-PDF)
 
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/ChatBot%20Using%20Multiple%20PDF/documentation/huggingface%20deployment.png)
+
+## 3. QnA with CSV
+
+### Overview
+
+- Leverage the advanced capabilities of Mistral-7B models for robust performance.
+- Utilizes the LangChain library to seamlessly integrate language processing functionalities.
+- Developed as an intuitive Streamlit application with deployment options on the Hugging Face space.
+- This app is designed for posing questions or generating summarizations based on CSV files.
+
+### Input
+
+Users can provide the following inputs:
+
+- Upload CSV files for inquiry.
+- Pose specific questions or prompts for the QnA system.
+
+### Output
+
+Receive detailed answers and information related to the questions posed within the CSV files.
+
+### Ideal Use Case
+
+Perfect for extracting insights and information from CSV files by framing targeted questions.
+
+### Deployment Example
+
+Explore the ChatBot with PDF app on the Hugging Face Space:
+[QnA with CSV App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/QnA-with-CSV)
+
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/QnA%20with%20CSV/document/Hugging%20Face%20Deployment.png)
