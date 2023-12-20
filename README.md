@@ -30,3 +30,34 @@ Ideal for practicing and enhancing mathematical skills.
 
 [Deployed Math Quiz App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/LLM-Generate-Math_Quiz)
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Generate%20Math%20Quiz/image/generate%20math%20question%202.png)
+
+## 2. ChatBot with PDF
+
+### Overview
+
+- Leverage the advanced capabilities of Mixtral-8x7B models for robust performance.
+- Utilizes the LangChain library to seamlessly integrate language processing functionalities.
+- Developed as an intuitive Streamlit application with deployment options on the Hugging Face space.
+- This app is designed for posing questions or generating summarizations based on PDF files.
+
+### Input
+
+Users can provide the following inputs:
+
+- Upload PDF documents or books for inquiry.
+- Pose specific questions or prompts for the ChatBot.
+
+### Output
+
+Receive detailed answers and information related to the questions posed within the PDF documents.
+
+### Ideal Use Case
+
+Perfect for extracting insights and information from PDF documents by framing targeted questions.
+
+### Deployment Example
+
+Explore the ChatBot with PDF app on the Hugging Face Space:
+[ChatBot with PDF App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/ChatBot-PDF)
+
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Generate%20Math%20Quiz/image/generate%20math%20question%202.png)
