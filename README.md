@@ -60,4 +60,4 @@ Perfect for extracting insights and information from PDF documents by framing ta
 Explore the ChatBot with PDF app on the Hugging Face Space:
 [ChatBot with PDF App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/ChatBot-PDF)
 
-![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Generate%20Math%20Quiz/image/generate%20math%20question%202.png)
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/ChatBot%20Using%20Multiple%20PDF/documentation/huggingface%20deployment.png)
