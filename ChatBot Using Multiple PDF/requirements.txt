@@ -5,3 +5,4 @@ streamlit
 sentence-transformers
 PyPDF2
 faiss-cpu
+dotenv
