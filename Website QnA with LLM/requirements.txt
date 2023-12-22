@@ -1,0 +1,8 @@
+beautifulsoup4
+langchain
+streamlit
+langchain-google-genai
+unstructured
+python-dotenv
+faiss-cpu
+transformers

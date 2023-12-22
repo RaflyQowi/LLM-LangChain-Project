@@ -92,3 +92,38 @@ Explore the ChatBot with PDF app on the Hugging Face Space:
 [QnA with CSV App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/QnA-with-CSV)
 
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/QnA%20with%20CSV/document/Hugging%20Face%20Deployment.png)
+
+## 4. QnA Indonesia Article Using Gemini AI
+
+### Overview
+
+- Leverage the advanced capabilities of Gemini AI models for robust question-answering on Indonesian articles.
+- Utilizes the LangChain library to seamlessly integrate language processing functionalities.
+- Developed as an intuitive Streamlit application with deployment options on the Hugging Face space.
+- This app is designed for posing questions or generating summarizations based on Indonesian articles.
+
+### Input
+
+Users can provide the following inputs:
+
+- Paste the text or upload documents of Indonesian articles.
+- Pose specific questions or prompts related to the content.
+
+### Output
+
+Receive detailed answers and insights based on the questions posed within the Indonesian articles.
+
+### Ideal Use Case
+
+Perfect for extracting information and understanding the content of Indonesian articles by framing targeted questions.
+
+### Deployment Example
+
+Explore the QnA Indonesia Article Using Gemini AI app on the Hugging Face Space:
+[QnA Indonesia Article App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/QnA-Indonesia-Article-GeminiAI)
+
+![Hugging Face Space Screenshot](#)
+
+### Additional Information
+
+Highlight any unique features or capabilities of your QnA system and provide any relevant details about its performance or usage.
