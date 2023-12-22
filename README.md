@@ -122,7 +122,7 @@ Perfect for extracting information and understanding the content of Indonesian a
 Explore the QnA Indonesia Article Using Gemini AI app on the Hugging Face Space:
 [QnA Indonesia Article App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/QnA-Indonesia-Article-GeminiAI)
 
-![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Website%20QnA%20with%20LLM/documentation/deployment_huggingface.png)
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/QnA%20Indonesia%20Article%20Using%20Gemini%20AI/documentation/deployment_huggingface.png)
 
 ### Additional Information
 
