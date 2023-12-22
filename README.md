@@ -123,7 +123,3 @@ Explore the QnA Indonesia Article Using Gemini AI app on the Hugging Face Space:
 [QnA Indonesia Article App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/QnA-Indonesia-Article-GeminiAI)
 
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/QnA%20Indonesia%20Article%20Using%20Gemini%20AI/documentation/deployment_huggingface.png)
-
-### Additional Information
-
-Highlight any unique features or capabilities of your QnA system and provide any relevant details about its performance or usage.
