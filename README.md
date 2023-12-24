@@ -154,4 +154,4 @@ Perfect for users seeking descriptive information, engaging conversations, and d
 Explore the Chat with an Image Using Gemini AI app on the Hugging Face Space:
 [Chat with an Image Using Gemini AI App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/Chat-with-an-Image-GeminiAI)
 
-![Hugging Face Space Screenshot](https://example.com/your-screenshot-image.png)
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Chat%20with%20an%20Image%20Using%20Gemini%20AI/documentation/deployment.png)
