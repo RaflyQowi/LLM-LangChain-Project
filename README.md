@@ -155,3 +155,33 @@ Explore the Chat with an Image Using Gemini AI app on the Hugging Face Space:
 [Chat with an Image Using Gemini AI App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/Chat-with-an-Image-GeminiAI)
 
 ![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/Chat%20with%20an%20Image%20Using%20Gemini%20AI/documentation/deployment.png)
+
+## 6. Resume (ATS) Review Using Gemini AI
+
+### Overview
+
+- Leveraging the Gemini AI API to gain insights from ATS resumes.
+- Insights include having your resume reviewed based on the job description.
+- Developed as an intuitive Streamlit application with deployment options on the Hugging Face platform.
+
+### Input
+
+Users can interact with the application using the following inputs:
+
+- Upload PDF resumes for analysis.
+- Choose from three options: "Tell Me About the Resume," "How can I Improve my Skills," or "Percentage Match."
+
+### Output
+
+Receive suggestions and a reviewed resume.
+
+### Ideal Use Case
+
+Perfect for users seeking information and insights about their resumes in relation to job descriptions.
+
+### Deployment Example
+
+Explore the "Chat with an Image Using Gemini AI" app on the Hugging Face Space:
+[Chat with an Image Using Gemini AI App on Hugging Face Space](https://huggingface.co/spaces/LuckRafly/Resume-Review-Using-GeminiAI)
+
+![Hugging Face Space Screenshot](https://github.com/RaflyQowi/LLM-LangChain-Project/blob/main/ATS%20Review%20Using%20Gemini%20AI/documentation/1.png)
