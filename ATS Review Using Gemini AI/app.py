@@ -5,13 +5,13 @@ from utils import *
 
 def main():
     st.set_page_config(
-        page_title="Resume (ATS) Review Using Gemin AI",
+        page_title="Resume (ATS) Review Using Gemini AI",
         page_icon="📋",
         layout="wide"
     )
 
     # st.write(css, unsafe_allow_html=True)
-    st.title("Resume (ATS) Review Using Gemin AI 📋")
+    st.title("Resume (ATS) Review Using Gemini AI 📋")
 
     col1, col2 = st.columns([1, 3])
     
