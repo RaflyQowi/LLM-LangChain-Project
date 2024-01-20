@@ -20,7 +20,8 @@ def input_pdf_setup(uploaded_file):
         ## Convert the PDF to image
         images=pdf2image.convert_from_bytes(
             uploaded_file.read(), 
-           poppler_path= os.environ["PATH_POPPLER"]# for windows if resulting error
+        #    poppler_path= os.environ["PATH_POPPLER"]
+            poppler_path= "poppler-23.11.0\Library\\bin"
         )
         # first_page=images[0]
         pdf_parts = []
